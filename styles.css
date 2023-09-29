@@ -1,0 +1,39 @@
+.registration-form
+{
+	border: 30px green
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+}
+body {
+
+  background-color: cornsilk;
+}
+h1 {
+  color: black;
+}
+p {
+  color: darkgray;
+}
+.form-group {
+    margin-bottom: 25px;
+}
+ 
+body {
+  background-color: cornsilk;
+}
+h1 {
+  color: black;
+}
+p {
+  color: darkgray;
+}
+.form-group {
+    margin-bottom: 25px;
+}
+
+ 
